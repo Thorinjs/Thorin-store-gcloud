@@ -1,9 +1,12 @@
 {
   "name": "thorin-store-gcloud",
   "author": "UNLOQ Systems",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
-    "@google-cloud/datastore": "1.4.0"
+    "@google-cloud/datastore": "1.4.0",
+    "camelize": "1.0.0",
+    "decamelize": "1.2.0",
+    "camelcase": "4.1.0"
   },
   "description": "Thorin.js google cloud datastore",
   "main": "index.js",

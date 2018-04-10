@@ -1,7 +1,7 @@
 {
   "name": "thorin-store-gcloud",
   "author": "UNLOQ Systems",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "dependencies": {
     "@google-cloud/datastore": "1.4.0",
     "camelize": "1.0.0",
